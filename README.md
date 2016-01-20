@@ -1,1 +1,1 @@
-[![Coverage Status](https://coveralls.io/repos/peterchang168/travisci_coveralls/badge.svg?branch=master&service=github)](https://coveralls.io/github/peterchang168/travisci_coveralls?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/peterchang168/circleCI_coveralls/badge.svg?branch=master)](https://coveralls.io/github/peterchang168/circleCI_coveralls?branch=master)
